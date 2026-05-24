@@ -1,0 +1,1814 @@
+{
+  "sss": [
+    {
+      "bracket": "IY",
+      "from_": "1000",
+      "to_": "1249.99",
+      "credit": "1000",
+      "ssser": "73.7",
+      "sssee": "36.3",
+      "ec": "10",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "bracket": "II",
+      "from_": 1250,
+      "to_": 1749.99,
+      "credit": 1500,
+      "ssser": 110.7,
+      "sssee": 54.5,
+      "ec": 10
+    },
+    {
+      "id": "3",
+      "bracket": "III",
+      "from_": 1750,
+      "to_": 2249.99,
+      "credit": 2000,
+      "ssser": 147.3,
+      "sssee": 72.7,
+      "ec": 10
+    },
+    {
+      "id": "4",
+      "bracket": "IV",
+      "from_": 2250,
+      "to_": 2749.99,
+      "credit": 2500,
+      "ssser": 182.2,
+      "sssee": 90.8,
+      "ec": 10
+    },
+    {
+      "id": "5",
+      "bracket": "V",
+      "from_": 4750,
+      "to_": 5249.99,
+      "credit": 5000,
+      "ssser": 368.3,
+      "sssee": 181.7,
+      "ec": 10
+    },
+    {
+      "id": "6",
+      "bracket": "VI",
+      "from_": 5250,
+      "to_": 5749.99,
+      "credit": 5500,
+      "ssser": 405.2,
+      "sssee": 199.8,
+      "ec": 10
+    },
+    {
+      "id": "7",
+      "bracket": "VII",
+      "from_": 5750,
+      "to_": 6249.99,
+      "credit": 6000,
+      "ssser": 442,
+      "sssee": 218,
+      "ec": 10
+    },
+    {
+      "id": "8",
+      "bracket": "VIII",
+      "from_": 6250,
+      "to_": 6749.99,
+      "credit": 6500,
+      "ssser": 478.8,
+      "sssee": 236.2,
+      "ec": 10
+    },
+    {
+      "id": "9",
+      "bracket": "IX",
+      "from_": 6750,
+      "to_": 7249.99,
+      "credit": 7000,
+      "ssser": 515.7,
+      "sssee": 254.3,
+      "ec": 10
+    },
+    {
+      "id": "10",
+      "bracket": "X",
+      "from_": 7250,
+      "to_": 7749.99,
+      "credit": 7500,
+      "ssser": 552.5,
+      "sssee": 272.5,
+      "ec": 10
+    },
+    {
+      "id": "11",
+      "bracket": "XI",
+      "from_": 7750,
+      "to_": 8249.99,
+      "credit": 8000,
+      "ssser": 589.3,
+      "sssee": 290.7,
+      "ec": 10
+    },
+    {
+      "id": "12",
+      "bracket": "XII",
+      "from_": 8250,
+      "to_": 8749.99,
+      "credit": 8500,
+      "ssser": 626.2,
+      "sssee": 308.2,
+      "ec": 10
+    },
+    {
+      "id": "13",
+      "bracket": "XIII",
+      "from_": 8750,
+      "to_": 9249.99,
+      "credit": 9000,
+      "ssser": 663,
+      "sssee": 327,
+      "ec": 10
+    },
+    {
+      "id": "14",
+      "bracket": "XIV",
+      "from_": 9250,
+      "to_": 9749.99,
+      "credit": 9500,
+      "ssser": 699.8,
+      "sssee": 345.2,
+      "ec": 10
+    },
+    {
+      "id": "15",
+      "bracket": "XV",
+      "from_": "7750",
+      "to_": "8249.99",
+      "credit": "8000",
+      "ssser": "589.30",
+      "sssee": "290.7",
+      "ec": "10"
+    }
+  ],
+  "user": [
+    {
+      "name": "John",
+      "email": "john@example.com",
+      "phone": "(555) 555-1234",
+      "dept": "Accounting",
+      "pwd": "John",
+      "id": "1"
+    },
+    {
+      "name": "Mary",
+      "email": "tmary@example.com",
+      "phone": "(555) 555-1234",
+      "dept": "Admin",
+      "pwd": "Mary",
+      "id": "2"
+    },
+    {
+      "name": "Dooley",
+      "email": "july@example.com",
+      "phone": "(555) 555-8521",
+      "dept": "Warehouse",
+      "id": "3",
+      "pwd": "Dooley",
+      "isloggedin": 0
+    },
+    {
+      "name": "Moe",
+      "email": "Moe@example.com",
+      "phone": "(555) 555-7410",
+      "dept": "Human Resource",
+      "id": "4",
+      "pwd": "Moe"
+    },
+    {
+      "name": "Doe",
+      "email": "Doe@example.com",
+      "phone": "(555) 555-7896",
+      "dept": "Accounting",
+      "id": "5",
+      "pwd": "Doe"
+    },
+    {
+      "name": "DelfinX",
+      "email": "del@gmail.com",
+      "phone": "0988-871-2122",
+      "dept": "Admin",
+      "pwd": "Delfin",
+      "id": "6"
+    },
+    {
+      "name": "JECJEC",
+      "email": "jgungob@gmail.com",
+      "phone": "0917-322-1988",
+      "dept": "Human Resource",
+      "id": "7",
+      "pwd": "JECJEC"
+    },
+    {
+      "name": "ANDOT",
+      "email": "adot@gmail.com",
+      "phone": "0912-432-1233",
+      "dept": "Production",
+      "id": "8",
+      "pwd": "ANDOT"
+    },
+    {
+      "name": "LENDON",
+      "email": "lendy@gmail.com",
+      "phone": "0912-432-1245",
+      "dept": "Production",
+      "id": "9",
+      "pwd": "LENDON"
+    },
+    {
+      "name": "ALVAREZ",
+      "email": "alv@gmail.com",
+      "phone": "0914-412-1233",
+      "dept": "Human Resource",
+      "id": "10",
+      "pwd": "ALVAREZ"
+    },
+    {
+      "name": "RICHARD",
+      "email": "RICH@gmail.com",
+      "phone": "0914-712-1233",
+      "dept": "Marketing",
+      "id": "11",
+      "pwd": "RICHARD"
+    },
+    {
+      "name": "CHELITOX",
+      "email": "chel@gmail.com",
+      "phone": "0916-412-7233",
+      "dept": "Warehouse",
+      "pwd": "CHELITO",
+      "id": "12"
+    },
+    {
+      "name": "JONAR",
+      "email": "jonar@gmail.com",
+      "phone": "0914-812-5233",
+      "dept": "Admin",
+      "id": "13",
+      "pwd": "JONAR"
+    },
+    {
+      "name": "TABULONG",
+      "email": "tabul@yahoo.com",
+      "phone": "0912-612-1233",
+      "dept": "Warehouse",
+      "id": "14",
+      "pwd": "TABULONG"
+    },
+    {
+      "name": "Elvira",
+      "email": "elv@gmail.com",
+      "phone": "0916-489-1833",
+      "dept": "Marketing",
+      "id": "15",
+      "pwd": "Elvira"
+    },
+    {
+      "name": "Libat",
+      "email": "lib@gmail.com",
+      "phone": "0919-239-1833",
+      "dept": "Accounting",
+      "id": "16",
+      "pwd": "Libat"
+    },
+    {
+      "name": "test21",
+      "email": "test21@gmail.com",
+      "phone": "912423232",
+      "dept": "Production",
+      "id": "17",
+      "pwd": "test21"
+    },
+    {
+      "name": "test22",
+      "email": "test22@yahoo.com",
+      "phone": "09162322244",
+      "dept": "Production",
+      "id": "18",
+      "pwd": "test22"
+    },
+    {
+      "name": "test23",
+      "email": "test23@yahoo.com",
+      "phone": "09162322247",
+      "dept": "Warehouse",
+      "id": "19",
+      "pwd": "test23"
+    },
+    {
+      "name": "test24",
+      "email": "test24@yahoo.com",
+      "phone": "09888712122",
+      "dept": "Human Resource",
+      "isloggedin": 0,
+      "id": "20",
+      "pwd": "test24"
+    },
+    {
+      "name": "user1",
+      "email": "user1@yahoo.com",
+      "phone": "09888712122",
+      "dept": "Human Resource",
+      "isloggedin": 0,
+      "id": "21",
+      "pwd": "user1"
+    },
+    {
+      "id": "22",
+      "name": "Test22",
+      "email": "test22@example.com",
+      "phone": "(555) 555-1222",
+      "dept": "Accounting",
+      "pwd": "test22"
+    },
+    {
+      "id": "23",
+      "name": "Test23",
+      "email": "test23@example.com",
+      "phone": "(555) 555-1222",
+      "dept": "Accounting",
+      "pwd": "test23"
+    }
+  ],
+  "employee": [
+    {
+      "lastname": "Apa",
+      "firstname": "Juliet",
+      "middlename": "Amodia",
+      "dept": "Audit",
+      "sssno": "0611859293",
+      "philhealthno": "89212221324",
+      "hdmfno": "8721422329",
+      "salaryrate": "49000",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Joseph",
+      "lastname": "Inot",
+      "middlename": "Igot",
+      "sssno": "0611859295",
+      "philhealthno": "8721422331",
+      "hdmfno": "89212221121",
+      "salaryrate": "41000",
+      "dept": "Accounting"
+    },
+    {
+      "id": "3",
+      "lastname": "Borbajo",
+      "firstname": "Roberto",
+      "middlename": "Cabanes",
+      "street": "Tugas St, Lapaz",
+      "city": "Danao",
+      "Province": "Cebu",
+      "zipcode": "6010",
+      "tin": "103712349",
+      "contactno": "639238761220",
+      "salaryrate": "55000",
+      "sssno": "0611859294",
+      "philhealthno": "89212221120",
+      "hdmfno": "8721422330",
+      "dept": "Marketing"
+    },
+    {
+      "id": "4",
+      "lastname": "Gilig",
+      "firstname": "Angela",
+      "middlename": "Apa",
+      "dept": "Accounting",
+      "sssno": "0611859293",
+      "philhealthno": "89212221119",
+      "hdmfno": "8721422329",
+      "salaryrate": "56000"
+    },
+    {
+      "lastname": "Apa",
+      "firstname": "Juliet",
+      "middlename": "Amodia",
+      "dept": "Audit",
+      "sssno": "0611859293",
+      "philhealthno": "89212221324",
+      "hdmfno": "8721422329",
+      "salaryrate": "49000",
+      "id": "5"
+    },
+    {
+      "lastname": "Malingin",
+      "firstname": "Renante",
+      "middlename": "Gonzales",
+      "dept": "Admin",
+      "sssno": "0611859292",
+      "philhealthno": "89212221119",
+      "hdmfno": "8721422329",
+      "salaryrate": "57000",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "firstname": "Danica",
+      "lastname": "Rivera",
+      "middlename": "Yap",
+      "sssno": "0611859291",
+      "philhealthno": "8721422328",
+      "hdmfno": "89212221118",
+      "salaryrate": "59000",
+      "dept": "Admin"
+    },
+    {
+      "lastname": "Ompad",
+      "firstname": "Cecilia",
+      "middlename": "Tan",
+      "dept": "Admin",
+      "sssno": "0611859290",
+      "philhealthno": "89212221117",
+      "hdmfno": "8721422327",
+      "salaryrate": "59000",
+      "id": "8"
+    },
+    {
+      "lastname": "Apa",
+      "firstname": "Juliet",
+      "middlename": "Amodia",
+      "dept": "Audit",
+      "sssno": "0611859293",
+      "philhealthno": "89212221324",
+      "hdmfno": "8721422329",
+      "salaryrate": "49000",
+      "id": "9"
+    },
+    {
+      "lastname": "Apa",
+      "firstname": "Juliet",
+      "middlename": "Amodia",
+      "dept": "Audit",
+      "sssno": "0611859293",
+      "philhealthno": "89212221324",
+      "hdmfno": "8721422329",
+      "salaryrate": "49000",
+      "id": "10"
+    },
+    {
+      "id": "11",
+      "lastname": "Ramos",
+      "firstname": "Fidel",
+      "middlename": "Abatayo",
+      "dept": "Sales",
+      "sssno": "0611859289",
+      "philhealthno": "89212221116",
+      "hdmfno": "8721422326",
+      "salaryrate": "61000"
+    },
+    {
+      "id": "12",
+      "lastname": "Ompad",
+      "firstname": "Cecilia",
+      "middlename": "Tan",
+      "dept": "Audit",
+      "sssno": "0611859290",
+      "philhealthno": "89212221117",
+      "hdmfno": "8721422327",
+      "salaryrate": "59000"
+    },
+    {
+      "id": "13",
+      "lastname": "Jordan",
+      "firstname": "Ronaldo",
+      "middlename": "Abatayo",
+      "street": "Maharlika  St, ",
+      "city": "Bantayan",
+      "Province": "Cebu",
+      "zipcode": "6006",
+      "tin": "103712338",
+      "contactno": "639238761201",
+      "salaryrate": "59600",
+      "sssno": "0611859287",
+      "philhealthno": "89212221109",
+      "hdmfno": "8721422317",
+      "dept": "Finance"
+    },
+    {
+      "id": "14",
+      "lastname": "Ybanez",
+      "firstname": "Benny",
+      "middlename": "Paquibot",
+      "street": "Anoron  St, ",
+      "city": "Catmon 1",
+      "Province": "Cebu",
+      "zipcode": "6005",
+      "tin": "103712343",
+      "contactno": "639238761213",
+      "salaryrate": "59700",
+      "sssno": "0611859282",
+      "philhealthno": "89212221111",
+      "hdmfno": "8721422321",
+      "dept": "Human Resource"
+    },
+    {
+      "id": "15",
+      "lastname": "Limpot",
+      "firstname": "Junarel",
+      "middlename": "Amistad",
+      "street": "Happy Valley  St, ",
+      "city": "Carmen",
+      "Province": "Cebu",
+      "zipcode": "6004",
+      "tin": "103712344",
+      "contactno": "639238761214",
+      "salaryrate": "59000",
+      "sssno": "0611859289",
+      "philhealthno": "89212221116",
+      "hdmfno": "8721422326",
+      "dept": "Marketing"
+    },
+    {
+      "lastname": "Ramos",
+      "firstname": "Edilberto",
+      "middlename": "Cabanes",
+      "dept": "Sales",
+      "sssno": "0611859294",
+      "philhealthno": "89212261120",
+      "hdmfno": "8721422330",
+      "salaryrate": "55000",
+      "id": "16"
+    },
+    {
+      "lastname": "Igot",
+      "firstname": "Noel",
+      "middlename": "Albaracin",
+      "dept": "Human Resource",
+      "sssno": "0611859289",
+      "philhealthno": "89212221116",
+      "hdmfno": "8721422326",
+      "salaryrate": "59000",
+      "id": "17"
+    },
+    {
+      "lastname": "Booc",
+      "firstname": "Myrna",
+      "middlename": "Talingting",
+      "dept": "Warehouse",
+      "sssno": "0611859289",
+      "philhealthno": "89212271120",
+      "hdmfno": "8721422326",
+      "salaryrate": "59000",
+      "id": "18"
+    },
+    {
+      "id": "19",
+      "lastname": "Geronimo",
+      "firstname": "Junard",
+      "middlename": "Potot",
+      "street": "Pandan  St, ",
+      "city": "Catmon",
+      "Province": "Cebu",
+      "zipcode": "6002",
+      "tin": "103712343",
+      "contactno": "639238761213",
+      "salaryrate": "60000",
+      "sssno": "0611859288",
+      "philhealthno": "89212221114",
+      "hdmfno": "8721422324",
+      "dept": "Warehouse"
+    },
+    {
+      "id": "20",
+      "lastname": "Yntig",
+      "firstname": "Scott",
+      "middlename": "Canove",
+      "street": "Tuyong Liloan, ",
+      "city": "Liloan",
+      "Province": "Cebu",
+      "zipcode": "6006",
+      "tin": "103711981",
+      "contactno": "639238761712",
+      "salaryrate": "54000",
+      "sssno": "0611856288",
+      "philhealthno": "89212221152",
+      "hdmfno": "8721422393",
+      "dept": "Sales"
+    }
+  ],
+  "paytran": [
+    {
+      "id": "00001",
+      "empid": "2",
+      "empname": "Inot, Joseph",
+      "nodays": "11",
+      "amtdays": "25000",
+      "salaryrate": "50000",
+      "absentdays": "1",
+      "absentamt": "2380.95",
+      "latehr": "1",
+      "lateamt": "297.00",
+      "othr": "3",
+      "otamt": "1071.00",
+      "regholday": "1",
+      "regholamt": "595.00",
+      "splholday": "1",
+      "splholamt": "386.00",
+      "otherinc": "400.00",
+      "wtax": "5000.00",
+      "ssser": "800.00",
+      "sssee": "800.00",
+      "hdmfer": "600.00",
+      "hdmfee": "600.00",
+      "philhealther": "400.00",
+      "philhealthee": "400.00",
+      "advances": 0,
+      "otherded": "4000.00",
+      "netpay": null
+    },
+    {
+      "id": "00002",
+      "empid": "3",
+      "empname": "Borbajo, Roberto",
+      "nodays": "11",
+      "amtdays": "25000",
+      "salaryrate": "50000",
+      "absentdays": "0",
+      "absentamt": "0",
+      "latehr": "0",
+      "lateamt": "0",
+      "othr": "0",
+      "otamt": "0",
+      "regholday": "0",
+      "regholamt": "0",
+      "splholday": "0",
+      "splholamt": "0",
+      "otherinc": "0",
+      "wtax": "0",
+      "ssser": "0",
+      "sssee": "0",
+      "hdmfer": "0",
+      "hdmfee": "0",
+      "philhealther": "0",
+      "philhealthee": "0",
+      "advances": "0",
+      "otherded": "0",
+      "netpay": "0"
+    },
+    {
+      "id": "00003",
+      "empid": "4",
+      "empname": "Gilig, Angela",
+      "nodays": "11",
+      "amtdays": "25000",
+      "salaryrate": "50000",
+      "absentdays": "0",
+      "absentamt": "0",
+      "latehr": "0",
+      "lateamt": "0",
+      "othr": "0",
+      "otamt": "0",
+      "regholday": "0",
+      "regholamt": "0",
+      "splholday": "0",
+      "splholamt": "0",
+      "otherinc": "0",
+      "wtax": "0",
+      "ssser": "0",
+      "sssee": "0",
+      "hdmfer": "0",
+      "hdmfee": "0",
+      "philhealther": "0",
+      "philhealthee": "0",
+      "advances": "0",
+      "otherded": "0",
+      "netpay": "0"
+    },
+    {
+      "id": "00004",
+      "empid": "5",
+      "empname": "Apa, Juliet",
+      "nodays": "11",
+      "amtdays": "26000",
+      "salaryrate": "52000",
+      "absentdays": "0",
+      "absentamt": "0",
+      "latehr": "0",
+      "lateamt": "0",
+      "othr": "0",
+      "otamt": "0",
+      "regholday": "0",
+      "regholamt": "0",
+      "splholday": "0",
+      "splholamt": "0",
+      "otherinc": "0",
+      "wtax": "0",
+      "ssser": "0",
+      "sssee": "0",
+      "hdmfer": "0",
+      "hdmfee": "0",
+      "philhealther": "0",
+      "philhealthee": "0",
+      "advances": "0",
+      "otherded": "0",
+      "netpay": "0"
+    },
+    {
+      "id": "00005",
+      "empid": "6",
+      "empname": "Malingin, Renante",
+      "nodays": "11",
+      "amtdays": "24000",
+      "salaryrate": "48000",
+      "absentdays": "0",
+      "absentamt": "0",
+      "latehr": "0",
+      "lateamt": "0",
+      "othr": "0",
+      "otamt": "0",
+      "regholday": "0",
+      "regholamt": "0",
+      "splholday": "0",
+      "splholamt": "0",
+      "otherinc": "0",
+      "wtax": "0",
+      "ssser": "0",
+      "sssee": "0",
+      "hdmfer": "0",
+      "hdmfee": "0",
+      "philhealther": "0",
+      "philhealthee": "0",
+      "advances": "0",
+      "otherded": "0",
+      "netpay": "0"
+    },
+    {
+      "id": "00006",
+      "empid": "7",
+      "empname": "Rivera, Danica",
+      "nodays": "11",
+      "amtdays": "24000",
+      "salaryrate": "48000",
+      "absentdays": "0",
+      "absentamt": "0",
+      "latehr": "0",
+      "lateamt": "0",
+      "othr": "0",
+      "otamt": "0",
+      "regholday": "0",
+      "regholamt": "0",
+      "splholday": "0",
+      "splholamt": "0",
+      "otherinc": "0",
+      "wtax": "0",
+      "ssser": "0",
+      "sssee": "0",
+      "hdmfer": "0",
+      "hdmfee": "0",
+      "philhealther": "0",
+      "philhealthee": "0",
+      "advances": "0",
+      "otherded": "0",
+      "netpay": "0"
+    },
+    {
+      "id": "00007",
+      "empid": "8",
+      "empname": "Ompad, Cecilia",
+      "nodays": "11",
+      "amtdays": "24000",
+      "salaryrate": "48000",
+      "absentdays": "0",
+      "absentamt": "0",
+      "latehr": "0",
+      "lateamt": "0",
+      "othr": "0",
+      "otamt": "0",
+      "regholday": "0",
+      "regholamt": "0",
+      "splholday": "0",
+      "splholamt": "0",
+      "otherinc": "0",
+      "wtax": "0",
+      "ssser": "0",
+      "sssee": "0",
+      "hdmfer": "0",
+      "hdmfee": "0",
+      "philhealther": "0",
+      "philhealthee": "0",
+      "advances": "0",
+      "otherded": "0",
+      "netpay": "0"
+    },
+    {
+      "id": "00008",
+      "empid": "9",
+      "empname": "Cabanes, Ronnel",
+      "nodays": "11",
+      "amtdays": "26000",
+      "salaryrate": "52000",
+      "absentdays": "0",
+      "absentamt": "0",
+      "latehr": "0",
+      "lateamt": "0",
+      "othr": "0",
+      "otamt": "0",
+      "regholday": "0",
+      "regholamt": "0",
+      "splholday": "0",
+      "splholamt": "0",
+      "otherinc": "0",
+      "wtax": "0",
+      "ssser": "0",
+      "sssee": "0",
+      "hdmfer": "0",
+      "hdmfee": "0",
+      "philhealther": "0",
+      "philhealthee": "0",
+      "advances": "0",
+      "otherded": "0",
+      "netpay": "0"
+    },
+    {
+      "id": "00009",
+      "empid": "10",
+      "empname": "Cabaluna,   Randy",
+      "nodays": "11",
+      "amtdays": "29500.00",
+      "salaryrate": "0",
+      "absentdays": "1",
+      "absentamt": "2809.52",
+      "latehr": "1",
+      "lateamt": "351.19",
+      "othr": "1",
+      "otamt": "421.43",
+      "regholday": "1",
+      "regholamt": "702.38",
+      "splholday": "1",
+      "splholamt": "456.55",
+      "otherinc": "20.00",
+      "wtax": "0",
+      "ssser": "0",
+      "sssee": "0",
+      "hdmfer": "0",
+      "hdmfee": "0",
+      "philhealther": "0",
+      "philhealthee": "0",
+      "advances": 0,
+      "otherded": "0",
+      "netpay": "27939.65"
+    },
+    {
+      "id": "00010",
+      "empid": "11",
+      "empname": "Ramos,   Fidel",
+      "nodays": "11",
+      "amtdays": "30500.00",
+      "salaryrate": "0",
+      "absentdays": "0",
+      "absentamt": "0.00",
+      "latehr": "1",
+      "lateamt": "363.10",
+      "othr": "1",
+      "otamt": "435.71",
+      "regholday": "2",
+      "regholamt": "1452.38",
+      "splholday": "2",
+      "splholamt": "944.05",
+      "otherinc": "1600.00",
+      "wtax": "1800",
+      "ssser": "700",
+      "sssee": "700",
+      "hdmfer": "500",
+      "hdmfee": "500",
+      "philhealther": "400",
+      "philhealthee": "400",
+      "advances": 0,
+      "otherded": "2000",
+      "netpay": "29169.04"
+    }
+  ],
+  "items": [
+    {
+      "id": "ITM-001",
+      "sku": "ITM-001",
+      "name": "Bond Paper (A4)",
+      "unit": "ream",
+      "quantity": 150,
+      "unitCost": 190,
+      "price": 220,
+      "category": "School sup",
+      "sales": 1000
+    },
+    {
+      "id": "ITM-002",
+      "sku": "ITM-002",
+      "name": "Ballpen (Black)",
+      "unit": "box",
+      "quantity": 130,
+      "unitCost": 190,
+      "price": 230,
+      "category": "School sup",
+      "sales": 1100
+    },
+    {
+      "id": "ITM-003",
+      "sku": "ITM-003",
+      "name": "Folder (Long)",
+      "unit": "piece",
+      "quantity": 120,
+      "unitCost": 180,
+      "price": 240,
+      "category": "School sup",
+      "sales": 1200
+    },
+    {
+      "id": "ITM-004",
+      "sku": "ITM-004",
+      "name": "Stapler",
+      "unit": "piece",
+      "quantity": 130,
+      "unitCost": 190,
+      "price": 250,
+      "category": "School sup",
+      "sales": 1300
+    },
+    {
+      "id": "ITM-005",
+      "sku": "ITM-005",
+      "name": "Correction Tape",
+      "unit": "piece",
+      "quantity": 110,
+      "unitCost": 170,
+      "price": 260,
+      "category": "School sup",
+      "sales": 1400
+    },
+    {
+      "id": "ITM-006",
+      "sku": "ITM-006",
+      "name": "Stickey Notes",
+      "unit": "pad",
+      "quantity": 90,
+      "unitCost": 95,
+      "price": 280,
+      "category": "School sup",
+      "sales": 1700
+    },
+    {
+      "id": "ITM-007",
+      "sku": "ITM-007",
+      "name": "Mouse",
+      "unit": "pcs",
+      "quantity": 140,
+      "unitCost": 260,
+      "price": 290,
+      "category": "Computer",
+      "sales": 1800
+    },
+    {
+      "id": "ITM-008",
+      "sku": "ITM-008",
+      "name": "Keyboard",
+      "unit": "pcs",
+      "quantity": 138,
+      "unitCost": 265,
+      "price": 295,
+      "category": "Computer",
+      "sales": 1900
+    },
+    {
+      "id": "ITM-009",
+      "sku": "ITM-009",
+      "name": "SSD Hard Drive 3 Terra",
+      "unit": "pcs",
+      "quantity": 141,
+      "unitCost": 2000,
+      "price": 2500,
+      "category": "Computer",
+      "sales": 900
+    }
+  ],
+  "department": [
+    {
+      "id": "01",
+      "name": "Accounting",
+      "code": "Acc",
+      "amount": 97000,
+      "budget": 116400
+    },
+    {
+      "id": "02",
+      "name": "Marketing",
+      "code": "Mrk",
+      "amount": 114000,
+      "budget": 136800
+    },
+    {
+      "id": "03",
+      "name": "Admin",
+      "code": "Adm",
+      "amount": 175000,
+      "budget": 210000
+    },
+    {
+      "id": "04",
+      "name": "Warehouse",
+      "code": "Whs",
+      "amount": 119000,
+      "budget": 142800
+    },
+    {
+      "id": "05",
+      "name": "Human Resource",
+      "code": "Hrd",
+      "amount": 118700,
+      "budget": 142440
+    },
+    {
+      "id": "06",
+      "name": "Audit",
+      "code": "Aud",
+      "amount": 255000,
+      "budget": 306000
+    },
+    {
+      "id": "07",
+      "name": "Sales",
+      "code": "Sal",
+      "amount": 170000,
+      "budget": 204000
+    }
+  ],
+  "fixedasset": [
+    {
+      "description": "Building -Alpha 1",
+      "code": "B0001",
+      "barcode": "90001",
+      "acqcost": "6000000",
+      "accumdepn": "60000",
+      "bpname": "San Miguel Corp",
+      "category": "Bulding",
+      "id": "01"
+    },
+    {
+      "description": "Building -Alpha 2",
+      "code": "B0002",
+      "barcode": "90002",
+      "acqcost": "6000000",
+      "accumdepn": "50000",
+      "bpname": "Swift Foods",
+      "category": "Bulding",
+      "monthlydepn": 833.33,
+      "id": "02"
+    },
+    {
+      "description": "Building -Alpha 3",
+      "code": "B0003",
+      "barcode": "90003",
+      "acqcost": "7000000",
+      "accumdepn": "50000",
+      "bpname": "Vitarich Phils",
+      "category": "Bulding",
+      "monthlydepn": 833.33,
+      "id": "03"
+    },
+    {
+      "description": "Building -Alpha 4",
+      "code": "B0004",
+      "barcode": "90004",
+      "acqcost": "8000000",
+      "accumdepn": "50000",
+      "bpname": "Mandaue Ice Plant",
+      "category": "Bulding",
+      "monthlydepn": 833.33,
+      "id": "04"
+    },
+    {
+      "description": "Building -Alpha 5",
+      "code": "B0005",
+      "barcode": "90005",
+      "acqcost": "9000000",
+      "accumdepn": "50000",
+      "bpname": "Timex Phils",
+      "category": "Bulding",
+      "monthlydepn": 833.33,
+      "id": "05"
+    },
+    {
+      "description": "Building -Alpha 6",
+      "code": "B0006",
+      "barcode": "90006",
+      "acqcost": "5000000",
+      "accumdepn": "50000",
+      "bpname": "National Semi-Conductor",
+      "category": "Bulding",
+      "monthlydepn": 833.33,
+      "id": "06"
+    },
+    {
+      "description": "Building -Alpha 7",
+      "code": "B0007",
+      "barcode": "90007",
+      "acqcost": 5000000,
+      "accumdepn": 50000,
+      "bpname": "Land Master",
+      "category": "Building",
+      "monthlydepn": 833.33,
+      "id": "07"
+    }
+  ],
+  "supplier": [
+    {
+      "id": "01",
+      "Name": "San Miguel Corp"
+    },
+    {
+      "id": "02",
+      "Name": "Swift Foods"
+    },
+    {
+      "id": "03",
+      "Name": "Vitarich Phils"
+    },
+    {
+      "id": "04",
+      "Name": "Mandaue Ice Plant"
+    },
+    {
+      "id": "05",
+      "Name": "Timex Phils"
+    },
+    {
+      "id": "06",
+      "Name": "National Semi-Conductor"
+    }
+  ],
+  "category": [
+    {
+      "id": "01",
+      "Name": "Bulding"
+    },
+    {
+      "id": "02",
+      "Name": "Plant"
+    },
+    {
+      "id": "03",
+      "Name": "Equipment"
+    },
+    {
+      "id": "04",
+      "Name": "Transporfation"
+    },
+    {
+      "id": "05",
+      "Name": "Furnitures and Fixtures"
+    }
+  ],
+  "chartacct": [
+    {
+      "id": "1",
+      "acctcode": "1001",
+      "accttitle": "Cash On Hand",
+      "category": "Current Asset"
+    },
+    {
+      "id": "2",
+      "acctcode": "1100",
+      "accttitle": "Cash In Bank",
+      "category": "Current Asset"
+    },
+    {
+      "id": "3",
+      "acctcode": "1100-01",
+      "accttitle": "Cash In Bank - BDO",
+      "category": "Current Asset"
+    },
+    {
+      "id": "4",
+      "acctcode": "1100-02",
+      "accttitle": "Cash In Bank- China Bank",
+      "category": "Current Asset"
+    },
+    {
+      "id": "5",
+      "acctcode": "1100-03",
+      "accttitle": "Cash In Bank- Lankd Bank",
+      "category": "Current Asset"
+    },
+    {
+      "id": "6",
+      "acctcode": "1100-04",
+      "accttitle": "Cash In Bank- Metro Bank",
+      "category": "Current Asset"
+    },
+    {
+      "id": "7",
+      "acctcode": "1100-05",
+      "accttitle": "Cash In Bank- Rizal Banking",
+      "category": "Current Asset"
+    },
+    {
+      "id": "8",
+      "acctcode": "1100-06",
+      "accttitle": "Cash In Bank- Union Bank",
+      "category": "Current Asset"
+    },
+    {
+      "id": "9",
+      "acctcode": "1300",
+      "accttitle": "Petty Cash",
+      "category": "Current Asset"
+    },
+    {
+      "id": "10",
+      "acctcode": "1301",
+      "accttitle": "Revolving Fund",
+      "category": "Current Asset"
+    },
+    {
+      "id": "11",
+      "acctcode": "1400",
+      "accttitle": "Accounts Receivables",
+      "category": "Current Asset"
+    },
+    {
+      "id": "12",
+      "acctcode": "1500",
+      "accttitle": "Accounts Receivables - Others",
+      "category": "Current Asset"
+    },
+    {
+      "id": "13",
+      "acctcode": "1501",
+      "accttitle": "Accts Receivables - Affiliated Company",
+      "category": "Current Asset"
+    },
+    {
+      "id": "14",
+      "acctcode": "1502",
+      "accttitle": "Subscription Receivables",
+      "category": "Current Asset"
+    },
+    {
+      "id": "15",
+      "acctcode": "1503",
+      "accttitle": "Advaces To Officials",
+      "category": "Current Asset"
+    },
+    {
+      "id": "16",
+      "acctcode": "1504",
+      "accttitle": "Advances Personal",
+      "category": "Current Asset"
+    },
+    {
+      "id": "17",
+      "acctcode": "1505",
+      "accttitle": "Advances Uniforms",
+      "category": "Current Asset"
+    },
+    {
+      "id": "18",
+      "acctcode": "1506",
+      "accttitle": "Advances Others",
+      "category": "Current Asset"
+    },
+    {
+      "id": "19",
+      "acctcode": "1507",
+      "accttitle": "Security Deposits",
+      "category": "Current Asset"
+    },
+    {
+      "id": "20",
+      "acctcode": "1509",
+      "accttitle": "Others Assets - Prepayments",
+      "category": "Current Asset"
+    },
+    {
+      "id": "21",
+      "acctcode": "1600",
+      "accttitle": "Inventories",
+      "category": "Current Asset"
+    },
+    {
+      "id": "22",
+      "acctcode": "1601",
+      "accttitle": "Raw Materials",
+      "category": "Current Asset"
+    },
+    {
+      "id": "23",
+      "acctcode": "1602",
+      "accttitle": "Indirect Materials Inventory",
+      "category": "Current Asset"
+    },
+    {
+      "id": "24",
+      "acctcode": "1603",
+      "accttitle": "Sundries",
+      "category": "Current Asset"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Acme Corp",
+      "address": "Mandaue City",
+      "phoneno": "0912-908-2111",
+      "contact": "John Doe",
+      "email": "acmecorp@gmail.com",
+      "vatno": "103-9821-90822",
+      "top": "30"
+    },
+    {
+      "id": "2",
+      "name": "San Miguel Corp",
+      "address": "Tipolo, Mandaue City",
+      "phoneno": "0917-212-8922",
+      "contact": "John Leyn",
+      "email": "smc@gmail.com",
+      "vatno": "103-9821-90822",
+      "top": "30"
+    },
+    {
+      "id": "3",
+      "name": "Swift Foods, Inc",
+      "address": "Paknaan, Mandaue City",
+      "phoneno": "0916-212-8920",
+      "contact": "John Prat",
+      "email": "sfi@gmail.com",
+      "vatno": "103-9821-90822",
+      "top": "45"
+    },
+    {
+      "id": "4",
+      "name": "Mandaue Trade Center",
+      "address": "Tipolo-Mabolo, Mandaue City",
+      "phoneno": "0916-212-8923",
+      "contact": "John Prek",
+      "email": "mtc@gmail.com",
+      "vatno": "103-9821-90822",
+      "top": "30"
+    },
+    {
+      "id": "5",
+      "name": "Purefoods Inc.",
+      "address": "Tipolo-Mabolo, Mandaue City",
+      "phoneno": "0916-212-8923",
+      "contact": "John Prek",
+      "email": "purefoods@gmail.com",
+      "vatno": "103-9821-90831",
+      "top": "30"
+    },
+    {
+      "id": "6",
+      "name": "Virginia Foods Inc.",
+      "address": "Lilo-an Cebu",
+      "phoneno": "0916-212-1233",
+      "contact": "John Cute",
+      "email": "vfi@gmail.com",
+      "vatno": "103-9821-90831",
+      "top": "30"
+    },
+    {
+      "id": "7",
+      "name": "Fairchild Semi-Conductor Philippines",
+      "address": "Mepz1 Lapu-lapu City",
+      "phoneno": "0916-212-3411",
+      "contact": "John Cream",
+      "email": "fsp@gmail.com",
+      "vatno": "103-9821-6511",
+      "top": "30"
+    },
+    {
+      "id": "8",
+      "name": "Korlanda Philippines",
+      "address": "Mepz1 Lapu-lapu City",
+      "phoneno": "0916-212-5422",
+      "contact": "John Kwik",
+      "email": "kpi@gmail.com",
+      "vatno": "103-9821-3411",
+      "top": "30"
+    },
+    {
+      "id": "9",
+      "name": "Taiyuyuden Phils",
+      "address": "Mepz1 Lapu-lapu City",
+      "phoneno": "0916-212-5422",
+      "contact": "John Frost",
+      "email": "tpi@gmail.com",
+      "vatno": "103-9821-7862",
+      "top": "30"
+    },
+    {
+      "id": "10",
+      "name": "Philippine Makoto Corporation",
+      "address": "Mepz1 Lapu-lapu City",
+      "phoneno": "0916-122-8911",
+      "contact": "John Camp",
+      "email": "mpi@gmail.com",
+      "vatno": "103-9821-9899",
+      "top": "30"
+    },
+    {
+      "id": "11",
+      "name": "Cable News Delivery Network Dummy Co. Philippines",
+      "address": "Mepz1 Lapu-lapu City",
+      "phoneno": "0916-122-1241",
+      "contact": "John Crack",
+      "email": "cnn@gmail.com",
+      "vatno": "103-9821-1456",
+      "top": "30"
+    }
+  ],
+  "seriesordersub": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "6"
+    },
+    {
+      "id": "7"
+    },
+    {
+      "id": "8"
+    },
+    {
+      "id": "9"
+    },
+    {
+      "id": "10"
+    },
+    {
+      "id": "11"
+    },
+    {
+      "id": "12"
+    },
+    {
+      "id": "13"
+    },
+    {
+      "id": "14"
+    },
+    {
+      "id": "15"
+    },
+    {
+      "id": "16"
+    },
+    {
+      "id": "17"
+    },
+    {
+      "id": "18"
+    },
+    {
+      "id": "19"
+    },
+    {
+      "id": "20"
+    },
+    {
+      "id": "21"
+    },
+    {
+      "id": "22"
+    },
+    {
+      "id": "23"
+    },
+    {
+      "id": "24"
+    },
+    {
+      "id": "25"
+    }
+  ],
+  "ordermain": [
+    {
+      "id": "1",
+      "invno": "inv-9013",
+      "sono": "so-5001",
+      "custname": "Swift Foods, Inc",
+      "invdate": "2026-05-05",
+      "terms": "15days",
+      "contact": "John Doe",
+      "remarks": "Sales On Account",
+      "amount": 10000,
+      "referno": "ref0001",
+      "ordersub": [
+        {
+          "id": "1",
+          "mainid": "1",
+          "subid": "1",
+          "prodcode": "19001",
+          "proddescription": "running shoes- nike size 11 red",
+          "unit": "pcs",
+          "qty": 1,
+          "price": 2500,
+          "total": 2500
+        },
+        {
+          "id": "2",
+          "mainid": "1",
+          "subid": "2",
+          "prodcode": "19002",
+          "proddescription": "running shoes- nike size 11 blue",
+          "unit": "pcs",
+          "qty": 1,
+          "price": 2500,
+          "total": 2500
+        },
+        {
+          "id": "3",
+          "mainid": "1",
+          "subid": "3",
+          "prodcode": "19003",
+          "proddescription": "running shoes- nike size 11 white",
+          "unit": "pcs",
+          "qty": 1,
+          "price": 2500,
+          "total": 2500
+        },
+        {
+          "id": "4",
+          "mainid": "1",
+          "subid": "4",
+          "prodcode": "19003",
+          "proddescription": "running shoes- nike size 11 black",
+          "unit": "pcs",
+          "qty": 1,
+          "price": 2500,
+          "total": 2500
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "invno": "inv-9002",
+      "sono": "so-5002",
+      "custname": "San Miguel Corp",
+      "invdate": "2026-05-05",
+      "terms": "30days",
+      "contact": "Alex Tan",
+      "remarks": "Sales On Account",
+      "userid": "user1",
+      "datecreated": "2026-05-06 10:00",
+      "amount": 10400,
+      "referno": "ref0002",
+      "ordersub": [
+        {
+          "id": "5",
+          "mainid": "2",
+          "subid": "5",
+          "prodcode": "18001",
+          "proddescription": "running shoes- nike size 11 black",
+          "unit": "pcs",
+          "qty": 1,
+          "price": 2600,
+          "total": 2600
+        },
+        {
+          "id": "6",
+          "mainid": "2",
+          "subid": "6",
+          "prodcode": "18002",
+          "proddescription": "running shoes- nike size 11 white",
+          "unit": "pcs",
+          "qty": 1,
+          "price": 2600,
+          "total": 2600
+        },
+        {
+          "id": "7",
+          "mainid": "2",
+          "subid": "7",
+          "prodcode": "18003",
+          "proddescription": "running shoes- nike size 11 red",
+          "unit": "pcs",
+          "qty": 1,
+          "price": 2600,
+          "total": 2600
+        },
+        {
+          "id": "8",
+          "mainid": "2",
+          "subid": "8",
+          "prodcode": "18003",
+          "proddescription": "running shoes- nike size 11 blue",
+          "unit": "pcs",
+          "qty": 1,
+          "price": 2600,
+          "total": 2600
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "invno": "inv-9003",
+      "sono": "so-5003",
+      "custname": "San Miguel Corp",
+      "invdate": "2026-05-05",
+      "terms": "30days",
+      "contact": "Alex Tan",
+      "remarks": "Sales On Account 3",
+      "userid": "user1",
+      "datecreated": "2026-05-06 10:00",
+      "amount": 2045,
+      "referno": "ref0003",
+      "ordersub": [
+        {
+          "id": "9",
+          "mainid": "3",
+          "subid": "9",
+          "prodcode": "ITM-002",
+          "proddescription": "Ballpen (Black)",
+          "unit": "box",
+          "qty": "3",
+          "price": 230,
+          "total": 690
+        },
+        {
+          "id": "10",
+          "mainid": "3",
+          "subid": "10",
+          "prodcode": "ITM-003",
+          "proddescription": "Folder (Long)",
+          "unit": "piece",
+          "qty": "2",
+          "price": 240,
+          "total": 480
+        },
+        {
+          "id": 11,
+          "mainid": "3",
+          "subid": 11,
+          "prodcode": "ITM-008",
+          "proddescription": "Keyboard",
+          "unit": "pcs",
+          "qty": "1",
+          "price": 295,
+          "total": 295
+        },
+        {
+          "id": 12,
+          "mainid": "3",
+          "subid": 12,
+          "prodcode": "ITM-007",
+          "proddescription": "Mouse",
+          "unit": "pcs",
+          "qty": "2",
+          "price": 290,
+          "total": 580
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "invno": "inv-90044",
+      "sono": "so-5004",
+      "custname": "Philippine Makoto Corporation",
+      "invdate": "2026-05-05",
+      "terms": "30days",
+      "contact": "Alex Tan",
+      "remarks": "Sales On Account on invoice 9044",
+      "amount": 3255,
+      "ordersub": [
+        {
+          "id": 17,
+          "mainid": "4",
+          "subid": 17,
+          "prodcode": "ITM-008",
+          "proddescription": "Keyboard",
+          "unit": "pcs",
+          "qty": "1",
+          "price": 295,
+          "total": 295
+        },
+        {
+          "id": 18,
+          "mainid": "4",
+          "subid": 18,
+          "prodcode": "ITM-002",
+          "proddescription": "Ballpen (Black)",
+          "unit": "box",
+          "qty": "2",
+          "price": 230,
+          "total": 460
+        },
+        {
+          "id": 19,
+          "mainid": "4",
+          "subid": 19,
+          "prodcode": "ITM-009",
+          "proddescription": "SSD Hard Drive 3 Terra",
+          "unit": "pcs",
+          "qty": "1",
+          "price": 2500,
+          "total": 2500
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "invno": "inv-9005",
+      "sono": "so-5005",
+      "custname": "Purefoods Inc.",
+      "invdate": "2026-05-14",
+      "terms": "15days",
+      "contact": "",
+      "remarks": "test marks sample 5",
+      "amount": 2220,
+      "referno": "ref0005",
+      "ordersub": [
+        {
+          "id": 14,
+          "mainid": 5,
+          "subid": 14,
+          "prodcode": "ITM-006",
+          "proddescription": "Stickey Notes",
+          "unit": "pad",
+          "qty": "1",
+          "price": 280,
+          "total": 280
+        },
+        {
+          "id": 22,
+          "mainid": 5,
+          "subid": 22,
+          "prodcode": "ITM-005",
+          "proddescription": "Correction Tape",
+          "unit": "piece",
+          "qty": "3",
+          "price": 260,
+          "total": 780
+        },
+        {
+          "id": 23,
+          "mainid": 5,
+          "subid": 23,
+          "prodcode": "ITM-007",
+          "proddescription": "Mouse",
+          "unit": "pcs",
+          "qty": "4",
+          "price": 290,
+          "total": 1160
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "invno": "inv-9006",
+      "sono": "so-5006",
+      "custname": "Philippine Makoto Corporation",
+      "invdate": "2026-05-15",
+      "terms": "cod",
+      "contact": "ITM-006",
+      "remarks": "test marks sample 6",
+      "amount": 2420,
+      "ordersub": [
+        {
+          "id": 24,
+          "mainid": 6,
+          "subid": 24,
+          "prodcode": "ITM-006",
+          "proddescription": "Stickey Notes",
+          "unit": "pad",
+          "qty": "7",
+          "price": 280,
+          "total": 1960
+        },
+        {
+          "id": 25,
+          "mainid": 6,
+          "subid": 25,
+          "prodcode": "ITM-002",
+          "proddescription": "Ballpen (Black)",
+          "unit": "box",
+          "qty": "2",
+          "price": 230,
+          "total": 460
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+javascript// Example JSON
+const jsonData = [
+  { month: "Jan", sales: 400 },
+  { month: "Feb", sales: 300 }
+];
+
+// Mapping for Chart.js
+const data = {
+  labels: jsonData.map(item => item.month),
+  datasets: [{
+    label: 'Monthly Sales',
+    data: jsonData.map(item => item.sales),
+    backgroundColor: 'rgba(75, 192, 192, 0.2)'
+  }]
+};
