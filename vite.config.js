@@ -10,7 +10,21 @@ server: {
       overlay: false,
     },
   },
-
+build: {
+    rollupOptions: {
+      // Add the package name(s) you want to exclude from the bundle here
+      external: ['your-package-name', 'another-package'],
+      
+      // If you're building a library, you often need to provide global 
+      // variables for these externalized dependencies
+      output: {
+        globals: {
+          'your-package-name': 'React_Proll_2026May'
+        }
+      }
+    }
+},
+  
 
   
 })
